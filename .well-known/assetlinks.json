@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.maurs9.etude",
+      "sha256_cert_fingerprints": [
+        "33:82:B2:B8:E1:EE:A9:A5:46:9C:7B:E1:35:98:3D:EE:0E:57:81:E2:86:E7:21:77:F7:A3:63:B1:E7:A1:A6:03"
+      ]
+    }
+  }
+]
